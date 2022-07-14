@@ -99,7 +99,6 @@ form button {
   font-weight: 600;
   float: right;
   height: 56px;
-  letter-spacing: 0.8px;
   max-width: 200px;
   transition: 200ms ease background;
   width: 100%;
@@ -127,6 +126,7 @@ form button.animate {
   margin-bottom: 25px;
   max-width: 140px;
   width: 100%;
+  list-style: none;
 }
 
 .social-icons a {

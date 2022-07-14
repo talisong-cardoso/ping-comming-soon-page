@@ -7,8 +7,8 @@ Este projeto é um [desafio](https://www.frontendmentor.io/challenges/ping-singl
 
 ## 📌 Índices
 - [O desafio](#-o-desafio)
-- [Screenshot](#-screenshot)
-- [Tecnologias](#-tecnologias)
+- [Screenshot](#%EF%B8%8F-screenshot)
+- [Tecnologias](#%EF%B8%8F-tecnologias)
 - [Autor](#-autor)
 
 

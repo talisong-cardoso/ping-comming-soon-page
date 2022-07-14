@@ -6,10 +6,10 @@ Ps. Não há nenhuma conexão com banco de dados ou qualquer outro serviço de c
 Este projeto é um [desafio](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da "Veja este desafio") do [frontentmentor.io](https://frontendmentor.io/home "Acesse a plataforma"),
 
 ## 📌 Índices
-- [Funcionalidades](#Funciolanidades)
-- [Screenshot](#Screenshot)
-- [Tecnologias](#Built-with)
-- [Autor](#Autor)
+- [O desafio](#-o-desafio)
+- [Screenshot](#-screenshot)
+- [Tecnologias](#-tecnologias)
+- [Autor](#-autor)
 
 
 ## 🎯 O desafio
